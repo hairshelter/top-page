@@ -151,9 +151,9 @@ footer p{
 }
 .icon-line{
   margin:0 auto;
+  display:block;
+  width:40px;
 }
 .icon-line img{
-  margin:0 auto;
   width:40px;
-  display:block;
 }
