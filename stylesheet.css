@@ -83,6 +83,9 @@ header{
 .message{
   background-color: rgb(219, 102, 19);
 }
+.message a{
+  color:white;
+}
 .side-wrapper{
   width:25%;
   float:left;
